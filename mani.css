@@ -1,0 +1,14 @@
+img {
+	float: right;
+	margin-right: 100px;
+}
+
+body {
+	background-image:url("http://www.imagenesdefondo.net/wp-content/uploads/2015/10/fondos-de-computadora-para-enviar.jpg");
+}
+* {
+color:white;
+}
+h1{
+	color:orange;
+}
